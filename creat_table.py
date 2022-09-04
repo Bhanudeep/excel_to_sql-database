@@ -9,7 +9,7 @@ def CreateTable():
 	DataBase = SQLC.connect(
 				host ="localhost",
 				user ="root",
-				password ="bhanudeep",
+				password ="********",
 				database ="test"
 			)
 
